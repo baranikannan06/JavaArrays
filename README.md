@@ -1,2 +1,1 @@
-# JavaArrays
-Arrays problems 
+# Learing Problems
